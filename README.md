@@ -9,10 +9,16 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**Off-campus housing for Stevens Institute of Technology students** in Hoboken, NJ and the
+surrounding Hudson County towns (Jersey City, Weehawken, Union City).
+
+Stevens' own pages only point students to listing sites and offer generic advice like "visit
+the area during the day and at night" — they don't tell you which specific buildings nickel-and-dime
+tenants, which streets and floors flood, where broker fees and mid-lease rent hikes bite hardest,
+or how the Hoboken-vs-Jersey-City price tradeoff actually plays out on a student budget. That
+lived-experience knowledge is scattered across building-review sites, neighborhood blogs, and
+Reddit threads, so answering one concrete question means reading across all of them — exactly the
+gap a retrieval system can close.
 
 ---
 
@@ -24,16 +30,19 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Stevens — "Living on Your Own" | Official guide | https://www.stevens.edu/living-on-your-own |
+| 2 | Stevens — Graduate Student Housing | Official guide | https://www.stevens.edu/housing-resources-for-graduate-students |
+| 3 | Redfin — Hoboken Neighborhood Guide | Neighborhood guide | https://www.redfin.com/blog/hoboken-nj-neighborhoods/ |
+| 4 | Apartments.com — Hoboken Local Guide | Price/neighborhood guide | https://www.apartments.com/local-guide/hoboken-nj/ |
+| 5 | NJ Real Estate Network — Moving to Hoboken | Long-form guide | https://www.newjerseyrealestatenetwork.com/blog/moving-to-hoboken-nj/ |
+| 6 | ApartmentRatings — Hoboken South Waterfront (333 River St) | Building reviews | https://www.apartmentratings.com/nj/hoboken/hoboken-south-waterfront_201222100007030/ |
+| 7 | ApartmentRatings — Hudson Tea Building (1500 Washington St) | Building reviews | https://www.apartmentratings.com/nj/hoboken/the-hudson-tea-building_201792890007030/ |
+| 8 | ApartmentRatings — 101 Clinton Street | Building reviews | https://www.apartmentratings.com/nj/hoboken/101-clinton-street_201659900707030/ |
+| 9 | ApartmentRatings — Hoboken (sorted by reviews) | Review aggregator | https://www.apartmentratings.com/nj/hoboken/sort-by-reviews/ |
+| 10 | Renters Canary — Hoboken | Tenant reviews | https://www.renterscanary.com/city/Hoboken |
+| 11 | Quora — Cost of living for a student in Hoboken / JC / Union City | Q&A / student perspective | https://www.quora.com/What-is-the-cost-of-living-for-a-student-in-Hoboken-Jersey-City-or-Union-City-NJ |
+| 12 | r/Hoboken | Community forum | https://www.reddit.com/r/Hoboken/ |
+| 13 | r/Stevens | Community forum | https://www.reddit.com/r/Stevens/ |
 
 ---
 
