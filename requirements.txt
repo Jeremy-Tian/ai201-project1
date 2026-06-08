@@ -1,10 +1,12 @@
+# torch 2.2.x is built against NumPy 1.x; pin numpy<2 to avoid an ABI crash at import.
+numpy<2
 sentence-transformers==3.4.1
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
+# Query interface (Milestone 5):
+gradio>=6.9.0
 # streamlit>=1.40.0
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
